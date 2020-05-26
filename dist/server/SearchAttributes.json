@@ -1,0 +1,9 @@
+{
+    "dealType": [{"value": "All", "content": "Все"}, {"value": "Аренда"}, {"value": "Продажа"}],
+    "assetType": [{"value": "All", "content": "Все"}, {"value": "Квартира"}, {"value": "Дом"}],
+    "district": [{"value": "All", "content": "Все"}, {"value": "District 1"}, {"value": "District 2"}, {"value": "District 3"}, {"value": "District 4"}, {"value": "District 5"}, {"value": "District 6"}, {"value": "District 7"}, {"value": "District 8"}, {"value": "District 9"}, {"value": "District 10"}],
+    "area": [{"value": "All", "content": "Все"}, {"value": 30, "content": "до 30"}, {"value": 35, "content": "до 35"}, {"value": 40, "content": "до 40"}, {"value": 45, "content": "до 45"}, {"value": 50, "content": "до 50"}, {"value": 55, "content": "до 55"}, {"value": 60, "content": "до 60"}],
+    "rooms": [{"value": "All", "content": "Все"}, {"value": 3, "content": "до 3"}, {"value": 4, "content": "до 4"}, {"value": 5, "content": "до 5"}, {"value": 6, "content": "до 6"}],
+    "floor": [{"value": "All", "content": "Все"}, {"value": 3, "content": "до 3"}, {"value": 4, "content": "до 4"}, {"value": 5, "content": "до 5"}, {"value": 6, "content": "до 6"}, {"value": 7, "content": "до 7"}, {"value": 8, "content": "до 8"}, {"value": 9, "content": "до 9"}, {"value": 10, "content": "до 10"}],
+    "price": [{"value": "All", "content": "Все"}, {"value": 1000, "content": "до 1000"}, {"value": 2000, "content": "до 2000"}, {"value": 3000, "content": "до 3000"}, {"value": 4000, "content": "до 4000"}, {"value": 5000, "content": "до 5000"}, {"value": 6000, "content": "до 6000"}, {"value": 7000, "content": "до 7000"}, {"value": 8000, "content": "до 8000"}, {"value": 9000, "content": "до 9000"}, {"value": 10000, "content": "до 10000"}, {"value": 11000, "content": "до 11000"}, {"value": 12000, "content": "до 12000"}]
+}

@@ -1,0 +1,7 @@
+{
+    "HOME_DATA_URL": "/server/HomePage.php",
+    "ASSETS_DATA_URL": "/server/AssetsPage.php",
+    "ASSET_DATA_URL": "/server/AssetPage.php",
+    "SEARCH_ATTRIBUTES": "/server/SearchAttributes.json",
+    "ASSETS_PATH": "/assets"
+}
